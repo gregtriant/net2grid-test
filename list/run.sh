@@ -8,7 +8,7 @@ cd build
 
 # Run CMake
 make clean
-cmake -DDEBUG_MODE=ON ..
+cmake -DDEBUG_MODE=OFF ..
 
 # Run Make
 make

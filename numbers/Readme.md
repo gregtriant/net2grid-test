@@ -1,10 +1,9 @@
 
 
-# Linked List Implemention
-
+# 24bit Integers
 code path:
 ```
-./inc/list.h
+./inc/byteInt.h
 ```
 
 ## Run
@@ -21,4 +20,3 @@ cmake -DDEBUG_MODE=ON ..
 
 ...
 ```
-
